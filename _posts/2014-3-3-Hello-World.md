@@ -3,7 +3,9 @@ layout: post
 title: মাঞ্জারো লিনাক্সের বুটেবল পেনড্রাইভ তৈরী করা
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+উবুন্টুতে অামরা Startup Disk Creator ইউজ করে খুব সহজেই যেকোনো iso ফাইলকে পেনড্রাইভে বুটেবল করে ফেলতে পারি। অাসলে যেকোনো iso ফাইলকে বুটেবল করতে পারি না। যেমন: Arch বেসড ডিস্ট্রোগুলোর iso ফাইলকে Startup Disk Creator দিয়ে বুটেবল করা যায় না। সেক্ষেত্রে নিচের পদ্ধতিটা অামাদের কাজে অাসবে। এইখানে অামরা Manjaro Linux (XFCE Edition)-কে পেনড্রাইভে বুটেবল করব। বলে রাখি, Manjaro একটা Arch বেসড লিনাক্স ডিস্ট্রো। এই কাজের জন্য অামাদের দরকার একটা রানিং লিনাক্স ডিস্ট্রো, একটা পেনড্রাইভ অার মাঞ্জারো লিনাক্সের iso ফাইল।
+
+প্রথমেই পেনড্রাইভটা কানেক্ট করে ফরমেট করে ফেলেন। তারপর টার্মিনাল ওপেন করে মাঞ্জারোর iso ফাইল যেই ফোল্ডারে রাখা অাছে, সেই ফোল্ডারে নেভিগেট করেন। অামারটা Downloads ফোল্ডারে রাখা অাছে।
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
