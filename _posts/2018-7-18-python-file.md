@@ -29,7 +29,7 @@ Altaf, Anupa, Ahad, Miraz, Mehedi, Mohiminul, Misbah, Miftah, Shaker, Shakil, Sa
 >>> names = names.split(",")
 >>> type(names)
 <class 'list'>  
-{% end highlight %}
+{% endhighlight %}
   
 split() ফাংশন ব্যবহার করে একটা স্ট্রিং এর সাব-স্ট্রিংগুলোকে অালাদা করে একটা লিস্ট বানানো যায়। উপরের কোডের প্রথম লাইনে অামরা সেটাই করেছি। এরপরের লাইনে টাইপ চেক করেছি। এইবার নির্দিষ্ট কিছু নাম অালাদা করার পালা।  
 
