@@ -17,24 +17,19 @@ avatar: https://avatars3.githubusercontent.com/u/17181344?s=400&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: emonmehedi61@gmail.com
-  facebook: daringcoder
-  flickr:
-  github: mehedi61
-  instagram:
-  linkedin: daringcoder
-  pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: daringcoder
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  github: mehedi61
+  linkedin: daringcoder
+  email: emonmehedi61@gmail.com
+  stackoverflow: user:5929840a
+  rss: # just type anything here for a working RSS icon
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: daringcoder
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
