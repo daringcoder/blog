@@ -1,0 +1,2 @@
+|-- _drafts/
+|   |-- vim.md
