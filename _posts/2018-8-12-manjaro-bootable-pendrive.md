@@ -28,4 +28,4 @@ sudo dd bs=4M if=manjaro-xfce-17.1.11-stable-x86_64.iso of=/dev/sdb status=progr
 1876064256 bytes (1.9 GB, 1.7 GiB) copied, 346.919 s, 5.4 MB/s  
 {% endhighlight %}
 
-ব্যস ! অাপনার পেনড্রাইভ বুটেবল হয়ে গেল !  
+ব্যস ! অাপনার পেনড্রাইভ বুটেবল হয়ে গেল ! :smiley:
